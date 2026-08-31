@@ -1,0 +1,14 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+
+.langgraph_api/
+
+report.md
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
