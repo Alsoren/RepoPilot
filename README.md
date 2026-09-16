@@ -553,7 +553,3 @@ RepoPilot uses large language models for code analysis. Findings should be treat
 For security-critical software, results should be validated through appropriate testing, static analysis, and professional security review.
 
 ---
-
-## License
-
-Add the project's license here.
